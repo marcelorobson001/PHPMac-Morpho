@@ -2,7 +2,7 @@
     "name": "marcelorobson001/phpmac-morpho",
     "description": "tagger do Corpus Mac_morpho com Bigramas e Unigramas, construido para taggear frases.",
     "type": "library",
-    "license": "",
+    "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
             "marcelorobson001\\PHPMacMorpho\\": "src/"
