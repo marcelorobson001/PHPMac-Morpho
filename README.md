@@ -1,5 +1,5 @@
 # PHPMac-Morpho
-tagger sequential utilizando banco de dados SQlite dentro do PHP com unigrams e bigramas retirados do corpus mac-morpho.
+Tagger sequential PHP utilizando BD SQlite com unigrams e bigramas retirados do corpus mac-morpho.
 ## Utilização
 ```
 require(__DIR__.'\vendor\autoload.php');
