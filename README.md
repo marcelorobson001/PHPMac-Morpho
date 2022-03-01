@@ -1,2 +1,2 @@
 # PHPMac-Morpho
-banco de dados SQlite com bigramas retirados do corpus mac-morpho usando composer.
+tagger sequential utilizando banco de dados SQlite dentro do PHP com unigrams e bigramas retirados do corpus mac-morpho.
