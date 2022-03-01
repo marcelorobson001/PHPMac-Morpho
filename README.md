@@ -1,5 +1,9 @@
 # PHPMac-Morpho
 Tagger sequential PHP utilizando BD SQlite com unigrams e bigramas retirados do corpus mac-morpho.
+
+## Instalação
+composer require marcelorobson001/phpmac-morpho
+
 ## Utilização
 ```
 require(__DIR__.'\vendor\autoload.php');
