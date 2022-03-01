@@ -1,5 +1,5 @@
 {
-    "name": "marcelorobson001/phpmac-morpho",
+    "name": "marcelorobson001/mac-morpho",
     "description": "Tagger sequential PHP que utiliza BD Sqlite com Unigramas e Bigramas do Corpus Mac-morpho.",
     "type": "library",
     "license": "Apache-2.0",
