@@ -1,0 +1,20 @@
+{
+    "name": "marcelorobson001/phpmac-morpho",
+    "description": "tagger do Corpus Mac_morpho com Bigramas e Unigramas, construido para taggear frases.",
+    "type": "library",
+    "license": "Creative Commons Attribution 4.0 International License",
+    "autoload": {
+        "psr-4": {
+            "marcelorobson001\\PHPMacMorpho\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcelo Robson",
+            "email": "marceloronbson001@gmail.com"
+        }
+    ],
+    "require":{
+        "php":">=7.0"
+    }
+}
